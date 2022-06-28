@@ -1,4 +1,4 @@
-//5054 GEORGIOS MPALANOS
+
 
 class ComputerPlayer
 {
